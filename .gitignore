@@ -1,0 +1,16 @@
+# Environnements virtuels
+venv/
+.venv/
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Cache Hugging Face (modèles volumineux : ne jamais les versionner)
+.cache/
+huggingface/
+
+# Système
+.DS_Store
+Thumbs.db

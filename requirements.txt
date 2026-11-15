@@ -1,0 +1,9 @@
+transformers>=4.40,<5
+torch
+sentencepiece
+rouge-score
+sacrebleu
+bert-score
+pandas
+matplotlib
+jupyter
